@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Alondra Rubio 👋
-![image](https://github.com/ianxportillo/ianxportillo/blob/main/_b094160e-d4f4-40e7-9b72-d3ecb8dd8a42.jpeg)
+![image](D_S.jpg)
 
 ## 👨‍💻 About me:
 
@@ -30,12 +30,12 @@ I am a Data Scientist girl excited to be part of your work group. 🤓
 ## 🔧 Skills:
 
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Excel](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFBA01?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)
 ![Pandas](https://img.shields.io/badge/Pandas-0078D7?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
 ![Scikit](https://img.shields.io/badge/SciKit-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 
 ## 📭 Find me at:
 
