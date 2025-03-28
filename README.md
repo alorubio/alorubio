@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Alondra Rubio 👋
-![image](D_S.jpg)
+![image](Data-Science.jpg)
 
 ## 👨‍💻 About me:
 
