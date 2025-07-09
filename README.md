@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, my name is Alondra Rubio 👋
-![image](Inteligencia Empresarial.gif)
+# Hello, my name is Alondra 👋
 
 ## 👨‍💻 Career snapshot:
 
