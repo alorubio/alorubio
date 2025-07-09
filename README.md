@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Alondra Rubio 👋
-![image](Data-Science.jpg)
+![image](Inteligencia Empresarial.gif)
 
 ## 👨‍💻 Career snapshot:
 
