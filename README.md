@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hello, my name is Alondra Rubio 👋
 ![image](Data-Science.jpg)
 
-## 👨‍💻 About me:
+## 👨‍💻 Career snapshot:
 
 I am a Data Scientist girl excited to be part of your work group. 🤓
 
